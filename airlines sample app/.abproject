@@ -35,13 +35,18 @@
 		"org.apache.cordova.splashscreen",
 		"org.apache.cordova.statusbar"
 	],
-	"DisplayName": "airlines sample app",
+	"DisplayName": "Airlines",
 	"WP8SupportedResolutions": [
 		"ID_RESOLUTION_WVGA",
 		"ID_RESOLUTION_WXGA",
 		"ID_RESOLUTION_HD720P"
 	],
 	"Author": "",
+	"WP8Publisher": "",
+	"WP8TileTitle": "",
+	"WP8Capabilities": [],
+	"iOSBackgroundMode": [],
+	"WP8Requirements": [],
 	"Description": "airlines sample app",
 	"Framework": "Cordova",
 	"projectVersion": 1
