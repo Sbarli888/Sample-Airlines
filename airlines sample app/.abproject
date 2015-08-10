@@ -37,9 +37,9 @@
 	],
 	"DisplayName": "Airlines",
 	"WP8SupportedResolutions": [
+		"ID_RESOLUTION_HD720P",
 		"ID_RESOLUTION_WVGA",
-		"ID_RESOLUTION_WXGA",
-		"ID_RESOLUTION_HD720P"
+		"ID_RESOLUTION_WXGA"
 	],
 	"Author": "",
 	"WP8Publisher": "",
@@ -49,5 +49,9 @@
 	"WP8Requirements": [],
 	"Description": "airlines sample app",
 	"Framework": "Cordova",
-	"projectVersion": 1
+	"projectVersion": 1,
+	"WP8PublisherID": "{f8c703bc-0d47-434e-a329-45e41a2148b8}",
+	"WP8ProductID": "{796cbff4-2985-444c-ac75-737d27c0ef0e}",
+	"WP8PackageIdentityName": "1234Telerik.com.telerik.airlinessampleapp",
+	"WP8WindowsPublisherName": "CN=Telerik"
 }
