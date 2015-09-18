@@ -157,4 +157,5 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 [Listview]: http://api.jquerymobile.com/1.3/listview/
 [Button]: http://api.jquerymobile.com/1.3/button/
 [Widget data attributes]: http://api.jquerymobile.com/1.3/data-attribute/
-[MVC][MVC]: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+[MVC]: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+[Splashscreen]: https://www.npmjs.com/package/cordova-plugin-splashscreen
