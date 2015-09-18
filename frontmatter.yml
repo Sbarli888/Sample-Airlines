@@ -1,0 +1,7 @@
+title: Airlines
+slug: sample-airlines
+page_title: Airlines jQuery Sample App | Telerik Platform
+description: This demo app shows how to create a simple airlines app using jQuery Mobile. The app lets you log in and view and manage your trips. 
+tags: jQuery Mobile, iOS, Android, Windows Phone, Apache Cordova, hybrid development, JavaScript, MVC, page, header, button, data attributes
+publish: true
+content_filter: true
