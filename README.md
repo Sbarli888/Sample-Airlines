@@ -6,18 +6,9 @@ Airlines
 
 This sample app is a simple air trip management app. Developed with Apache Cordova and jQuery Mobile, this app lets you log into your account with a fictitious airline company, view your trips, check in for flights and change seat selection.
 
-> *Last updated:* August 11, 2015
-> 
 > *Supported mobile platforms:* iOS, Android, Windows Phone
 >
 > *Developed with:* Apache Cordova 3.7.0, jQuery Mobile 1.3.1
-
-## Limitations
-
-* You cannot use the seat selector on devices running Android versions earlier than Honeycomb.
-* [jQuery Mobile 1.3.1][jQuery Mobile 1.3.1] is a legacy release. Many APIs are now deprecated.
-* The login is a dummy functionality. The login data is hardcoded and is never verified on login.
-* Only the trip management functionality is implemented.
 
 ## Showcased APIs
 
@@ -145,6 +136,13 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 1. [Run in the native emulators.][emulators]
 1. [Deploy on device via QR code.][QR code]
 1. [Deploy via cable connection.][USB deploy]
+
+## Limitations
+
+* You cannot use the seat selector on devices running Android versions earlier than Honeycomb.
+* [jQuery Mobile 1.3.1][jQuery Mobile 1.3.1] is a legacy release. Many APIs are now deprecated.
+* The login is a dummy functionality. The login data is hardcoded and is never verified on login.
+* Only the trip management functionality is implemented.
 
 [device simulator]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-apps-in-simulator/launch-simulator
 [companion]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/run-companion/using-appbuilder-companion-app
