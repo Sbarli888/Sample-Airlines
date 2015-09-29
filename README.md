@@ -50,11 +50,11 @@ This sample shows how to use the following Apache Cordova core plugin.
 
 Platform | Login | User Home | Trips | Trip Details 
 ---|---|---|---|---
-All | ![](https://github.com/Icenium/sample-airlines/blob/master/screenshots/login.jpg) | ![](https://github.com/Icenium/sample-airlines/blob/master/screenshots/user-home.jpg) | ![](https://github.com/Icenium/sample-airlines/blob/master/screenshots/trips.jpg) | ![](https://github.com/Icenium/sample-airlines/blob/master/screenshots/trip-info.jpg)
+All | ![](https://raw.githubusercontent.com/Icenium/sample-airlines/master/screenshots/login.jpg) | ![](https://raw.githubusercontent.com/Icenium/sample-airlines/master/screenshots/user-home.jpg) | ![](https://raw.githubusercontent.com/Icenium/sample-airlines/master/screenshots/trips.jpg) | ![](https://raw.githubusercontent.com/Icenium/sample-airlines/master/screenshots/trip-info.jpg)
 
 Platform | Seat Selector | Boarding Pass | &nbsp; | &nbsp; 
 ---|---|---|---|---
-All | ![](https://github.com/Icenium/sample-airlines/blob/master/screenshots/seat-selector.jpg) | ![](https://github.com/Icenium/sample-airlines/blob/master/screenshots/boarding-pass.jpg) | &nbsp; | &nbsp;
+All | ![](https://raw.githubusercontent.com/Icenium/sample-airlines/master/screenshots/seat-selector.jpg) | ![](https://raw.githubusercontent.com/Icenium/sample-airlines/master/screenshots/boarding-pass.jpg) | &nbsp; | &nbsp;
 
 [Back to Top](#top)
 
