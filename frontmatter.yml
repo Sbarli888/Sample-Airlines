@@ -5,3 +5,4 @@ description: This demo app shows how to create a simple airlines app using jQuer
 tags: jQuery Mobile, iOS, Android, Windows Phone, Apache Cordova, hybrid development, JavaScript, MVC, page, header, button, data attributes
 publish: true
 content_filter: true
+apis: jquery jquery.mvc jquery.page jquery.header jquery.listview jquery.button jquery.dataAttributes cordova.splashscreen

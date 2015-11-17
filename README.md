@@ -1,10 +1,9 @@
 Airlines
 ===============
-<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-airlines" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>  <a href="https://github.com/Icenium/sample-airlines" target="_blank"><img style="padding-left:20px" src="http://docs.telerik.com/platform/samples/images/get-github.png" alt="Get from GitHub" title="Get from GitHub"></a>
+<a href="https://platform.telerik.com/#appbuilder/clone/https%3A%2F%2Fgithub.com%2FIcenium%2Fsample-airlines" target="_blank"><img src="http://docs.telerik.com/platform/samples/images/try-in-appbuilder.png" alt="Try in AppBuilder" title="Try in AppBuilder" /></a>  
 
 <a id="top"></a>
 * [Overview](#overview)
-* [Showcased APIs](#showcased-apis)
 * [Important Directories and Files](#important-directories-and-files)
 * [Screenshots](#screenshots)
 * [Test the Sample](#test-the-sample)
@@ -17,24 +16,6 @@ This sample app is a simple air trip management app. Developed with Apache Cordo
 > *Supported mobile platforms:* iOS, Android, Windows Phone
 >
 > *Developed with:* Apache Cordova 3.7.0, jQuery Mobile 1.3.1
-
-[Back to Top](#top)
-
-# Showcased APIs
-
-This sample shows how to use the following widgets and features of jQuery Mobile.
-
-* **[MVC][MVC]:** Model-view-controller is a design pattern which helps developers separate the model (the data) from the view (the UI) and the process that accepts input and converts it to commands to the view or the model (the controller).
-* **mobile:** The base object of jQuery Mobile.
-* **[Page][Page]:** This widget manages a single item in the page-based architecture of jQuery Mobile. In this sample app, each page represents a screen in the application.
-* **[Header][Header]:** This widget is a toolbar at the top of the page. Usually contains the page title and some buttons.
-* **[Listview][Listview]:** This widget displays simple unordered lists of items.
-* **[Button][Button]:** This widget creates a tappable button based on standard HTML anchor and input elements.
-* **[Widget data attributes][Widget data attributes]:** The various data attributes let you customize your widgets.
-
-This sample shows how to use the following Apache Cordova core plugin.
-
-* **[Splashscreen][Splashscreen]:** This plugin lets you hide or show the splashscreen programmatically.
 
 [Back to Top](#top)
 
@@ -180,10 +161,3 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 [USB deploy]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/running-on-connected-devices/deploy-connected
 [emulators]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-in-emulators/native-emulators
 [jQuery Mobile 1.3.1]: http://api.jquerymobile.com/1.3/
-[Page]: http://api.jquerymobile.com/1.3/page/
-[Header]: http://api.jquerymobile.com/1.3/header/
-[Listview]: http://api.jquerymobile.com/1.3/listview/
-[Button]: http://api.jquerymobile.com/1.3/button/
-[Widget data attributes]: http://api.jquerymobile.com/1.3/data-attribute/
-[MVC]: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
-[Splashscreen]: https://www.npmjs.com/package/cordova-plugin-splashscreen
