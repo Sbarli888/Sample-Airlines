@@ -15,7 +15,7 @@ This sample app is a simple air trip management app. Developed with Apache Cordo
 
 > *Supported mobile platforms:* iOS, Android, Windows Phone
 >
-> *Developed with:* Apache Cordova 3.7.0, jQuery Mobile 1.3.1
+> *Developed with:* Windows Phone SDK 8.1, Apache Cordova 3.7.0, jQuery Mobile 1.3.1
 
 [Back to Top](#top)
 
