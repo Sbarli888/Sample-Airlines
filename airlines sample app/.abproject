@@ -30,10 +30,11 @@
 		"1",
 		"2"
 	],
-	"FrameworkVersion": "3.7.0",
+	"FrameworkVersion": "4.0.0",
 	"CorePlugins": [
-		"org.apache.cordova.splashscreen",
-		"org.apache.cordova.statusbar"
+		"cordova-plugin-splashscreen",
+		"cordova-plugin-statusbar",
+		"cordova-plugin-whitelist"
 	],
 	"DisplayName": "Airlines",
 	"WP8SupportedResolutions": [
