@@ -30,7 +30,7 @@
 		"1",
 		"2"
 	],
-	"FrameworkVersion": "4.0.0",
+	"FrameworkVersion": "6.4.0",
 	"CorePlugins": [
 		"cordova-plugin-splashscreen",
 		"cordova-plugin-statusbar",
